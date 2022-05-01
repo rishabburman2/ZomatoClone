@@ -1,0 +1,11 @@
+.max-width {
+    max-width: 1100px;
+    margin: 0px auto;
+}
+
+.absolute-center {
+    /* You only need the following 3 peoperties to center any item */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
